@@ -2,4 +2,4 @@
 
 ## About
 
-This is a git flow workshop
+This is a git flow workshop.
